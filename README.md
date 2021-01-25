@@ -20,6 +20,8 @@
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/github.svg" alt="github" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/rijobro/rijobro/main/ims/docker.svg" alt="docker" width="57" height="55"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/>
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="48" height="48"/>
+
 
 ## 📈 Github stats:
 
