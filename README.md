@@ -5,7 +5,7 @@
   - 👨‍💻 Currently working full-time on [MONAI](https://monai.io/), a deep-learning framework for medical imaging built on pytorch.
   - 🎓 My [Research gate](https://www.researchgate.net/profile/Richard_Brown72)
   - 👨‍🏫 PhD on treatment planning for glioblastoma radiotherapy, written in C++ with a Qt-GUI and VTK backend.
-  - 👨‍🏫 Developed open-source software for synergistic PET/MR reconstruction and image registration, see [SIRF](https://www.ccpsynerbi.ac.uk/) and [STIR](http://stir.sourceforge.net/). That project was equal balances of C++, Python and Matlab.
+  - 🔧 Developed open-source software for synergistic PET/MR reconstruction and image registration, see [SIRF](https://www.ccpsynerbi.ac.uk/) and [STIR](http://stir.sourceforge.net/). That project was equal balances of C++, Python and Matlab.
   - 📧 You can reach me at: [rich.brown@kcl.ac.uk](mailto:rich.brown@kcl.ac.uk)
 
 ## 👨🏻‍💻 Languages/Tools:
