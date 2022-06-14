@@ -29,14 +29,4 @@
 <img align="center" alt="Richard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rijobro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide=stars" /></a>
   
 <a href="https://github.com/rijobro">
-<img align="center" alt="Richard's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijobro&layout=compact&theme=radical" /></a>
-  
-<!-- ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijobro&show_icons=true&theme=radical) -->
-<!-- 
-  <a href="https://github.com/rijobro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijobro&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/rijobro/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijobro&layout=compact&theme=radical" />
-</a>
- -->
+<img align="center" alt="Richard's Github Stats (top langs)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijobro&layout=compact&theme=radical&include_all_commits=true" /></a>
