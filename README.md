@@ -31,8 +31,8 @@
 <!-- ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijobro&show_icons=true&theme=radical) -->
 
   <a href="https://github.com/rijobro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rijobro&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijobro&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rijobro/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rijobro&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijobro&layout=compact&theme=radical" />
 </a>
